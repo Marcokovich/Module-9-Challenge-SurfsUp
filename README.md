@@ -19,10 +19,11 @@ Table 9.1:
 - Minimum temperature is 56°F, which is above the 45°F threshold I mentioned. Meaning on the coldest days of winter, there will still be adacquate demand for Ice Cream. In terms of surfing, its above a 50°F threshold meaning on a sunny day demand for surfing will still be adacquate.
 - Average temperature is 71°F is a comfortable temperature for ice cream and surfing
 - Maximum temperature is 83°F is close to the maximum temperature during the summer, which would make sense for Hawaii's climate. This Temperature max is adequate for ice cream and surfing.
-- The Interquartile Range is between 69°F and 74°F which is a fully comfortable range for surfing a ice cream.
+- The Interquartile Range is between 69°F and 74°F which is a fully comfortable range for surfing and ice cream.
 
 Table 9.2:
 
 ![image](https://user-images.githubusercontent.com/71575748/155899778-b52e3927-2dc4-49d3-8747-abd2bc816ed8.png)
 
 ## 3. Summary
+In conlusion, the temperature is in good range for surfing and ice cream for the whole year. Under the assumption of fair weather in terms of other aspects such as wind and precipitation. Other queries to be made would be looking into these aspects such as wind speed and precipitation. Since wind speed will have an effect on sales during cold days and precipitation will always have an effect on demand for both.
